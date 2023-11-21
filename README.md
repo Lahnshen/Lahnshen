@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Lahn.<br><br>🔭 A Web Developer & Programmer<br>🏫 I'm currently learning Web Development & Android Development<br>📚 In my free time I like to read books~</p>
+<p align="left">I'm Lahn.<br><br>🔭 A Web Developer & Programmer<br>🏫 I'm currently learning Web Development<br>📚 In my free time I like to read books~</p>
 
 ###
 
