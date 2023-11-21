@@ -49,7 +49,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
 ###
